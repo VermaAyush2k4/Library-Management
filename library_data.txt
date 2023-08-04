@@ -1,0 +1,4 @@
+Physics,HCVERMA,1961
+Mathematics,Aryabhatts,1922
+Cprogramming,DennisRitchee,1822
+History,BharthaJoshi,1922
